@@ -1,0 +1,228 @@
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140037775244224] LHA reader: Block MODSEL found.
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140037775244224] LHA reader: Block SMINPUTS found.
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140037775244224] LHA reader: Block MINPAR found.
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140037775244224] LHA reader: Block EXTPAR found.
+[2025-07-28_20] [WARN] [/workspace/DataBase/lha_reader.cpp:72 parse] [Thread 140037775244224] LHA reader: Unknown block SOFTSUSY encountered. Skipping.
+[2025-07-28_20] [INFO] [/workspace/Core/QCDParameters.cpp:28 QCDParameters] [Thread 140037775244224] In QCDParameters constructor mb(81 GeV) = 2.967564
+[2025-07-28_20] [INFO] [/workspace/Core/Parameters.cpp:107 initSM] [Thread 140037775244224] mW :  79.829
+[2025-07-28_20] [INFO] [/workspace/Core/Parameters.cpp:116 initSM] [Thread 140037775244224] gp :  0.358003
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:103 init] [Thread 140037775244224] LO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:245 init] [Thread 140037775244224] NLO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 4.200000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.537964
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 4.200000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 2.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.403671
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 2.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 2.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.444686
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 2.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 3.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.477751
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 3.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 3.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.505453
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 3.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 4.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.529289
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 4.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 4.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.550203
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 4.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 5.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.568272
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 5.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 5.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.583338
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 5.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 6.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.597067
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 6.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 6.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.609675
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 6.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 7.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.621332
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 7.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 7.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.632169
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 7.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 8.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.642295
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 8.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 8.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.651796
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 8.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 9.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.660745
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 9.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 9.500000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.669203
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 9.500000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 10.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.677220
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 10.000000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:103 init] [Thread 140037775244224] LO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:161 set_base1] [Thread 140037775244224] SM_LO_Strategy calculation in base1 at scale 4.200000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:540 init_prime] [Thread 140037775244224] alpha_muW 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:541 init_prime] [Thread 140037775244224] mass_c_muw 0.648766
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:542 init_prime] [Thread 140037775244224] mass_c 1.27
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:549 init_prime] [Thread 140037775244224] LO SM prime Wilson Coefficient Initialized at scale 4.200000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.537964
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 4.200000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140037775244224] NLO coefficient calculated in base 1 at scale 4.200000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.537964
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 4.200000 with matching scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:103 init] [Thread 140037775244224] LO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:103 init] [Thread 140037775244224] LO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:245 init] [Thread 140037775244224] NLO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:410 init] [Thread 140037775244224] mtmt 162.938
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:411 init] [Thread 140037775244224] mtmt_2 162.938
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:412 init] [Thread 140037775244224] W 79.829
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:413 init] [Thread 140037775244224] xt :  4.67209
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:414 init] [Thread 140037775244224] xtW :  4.68394
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:415 init] [Thread 140037775244224] xtt :  4.16604
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:416 init] [Thread 140037775244224] Li2 1.04691
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:417 init] [Thread 140037775244224] C8c2MW(xtW) -1.79882
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:418 init] [Thread 140037775244224] C8t2mt(xtt) -1.20972
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:419 init] [Thread 140037775244224] mtmt_3 162.93803119633983556014
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:420 init] [Thread 140037775244224] mtoppole 172.50000000000000000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140037775244224] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140037775244224] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140037775244224] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140037775244224] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:583 init_scalar] [Thread 140037775244224] eta_mu 0.537964
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:584 init_scalar] [Thread 140037775244224] mb 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:607 init_scalar] [Thread 140037775244224] LO SM scalar Wilson Coefficient Initialized at scale 4.200000 with matching scale 81.000000 terminated successfully

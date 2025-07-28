@@ -1,0 +1,23 @@
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140150712794048] LHA reader: Block MODSEL found.
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140150712794048] LHA reader: Block SMINPUTS found.
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140150712794048] LHA reader: Block MINPAR found.
+[2025-07-28_20] [INFO] [/workspace/DataBase/lha_reader.cpp:62 parse] [Thread 140150712794048] LHA reader: Block EXTPAR found.
+[2025-07-28_20] [WARN] [/workspace/DataBase/lha_reader.cpp:72 parse] [Thread 140150712794048] LHA reader: Unknown block SOFTSUSY encountered. Skipping.
+[2025-07-28_20] [INFO] [/workspace/Core/QCDParameters.cpp:28 QCDParameters] [Thread 140150712794048] In QCDParameters constructor mb(81 GeV) = 2.967564
+[2025-07-28_20] [INFO] [/workspace/Core/Parameters.cpp:107 initSM] [Thread 140150712794048] mW :  79.829
+[2025-07-28_20] [INFO] [/workspace/Core/Parameters.cpp:116 initSM] [Thread 140150712794048] gp :  0.358003
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140150712794048] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140150712794048] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140150712794048] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140150712794048] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140150712794048] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140150712794048] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140150712794048] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140150712794048] mass_b_muW : 2.967564
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:103 init] [Thread 140150712794048] LO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:245 init] [Thread 140150712794048] NLO Wilson Coefficient Initialized at scale 81.000000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson.cpp:307 set_base1] [Thread 140150712794048] NLO coefficient calculated in base 1 at scale 4.200000 terminated successfully
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1219 SetMuW] [Thread 140150712794048] mu_W : 81.000000
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1221 SetMuW] [Thread 140150712794048] ALPHA AFTER CALCULATION : 0.119311
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1224 SetMuW] [Thread 140150712794048] mass_top_muW : 172.550582
+[2025-07-28_20] [INFO] [/workspace/PhysicalModel/Wilson_parameters.cpp:1226 SetMuW] [Thread 140150712794048] mass_b_muW : 2.967564

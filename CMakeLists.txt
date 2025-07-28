@@ -55,6 +55,32 @@ add_subdirectory(PhysicalModel PhysicalModelLib)
 add_subdirectory(BusinessLogic BusinessLogicLib)
 add_subdirectory(UserInterface UserInterfaceLib)
 
+# Add example executable
+add_executable(example_b_to_s_mumu example_b_to_s_mumu.cpp)
+target_link_libraries(example_b_to_s_mumu 
+    PhysicalModelLib
+    CoreLib
+    MathLib
+    CommonLib
+    DataBaseLib
+    ExternalIntegrationLib
+    BusinessLogicLib
+    ${CMAKE_THREAD_LIBS_INIT}
+)
+
+# Add simple test executable
+add_executable(simple_wilson_test simple_wilson_test.cpp)
+target_link_libraries(simple_wilson_test 
+    PhysicalModelLib
+    CoreLib
+    MathLib
+    CommonLib
+    DataBaseLib
+    ExternalIntegrationLib
+    BusinessLogicLib
+    ${CMAKE_THREAD_LIBS_INIT}
+)
+
 if (ENABLE_TESTS)
     FetchContent_Declare(
         Catch2
