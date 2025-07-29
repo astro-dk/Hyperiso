@@ -1,0 +1,194 @@
+[
+{
+  "directory": "/workspace",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -I/workspace/BusinessLogic -std=gnu++20 -o CMakeFiles/example_b_to_s_mumu.dir/example_b_to_s_mumu.cpp.o -c /workspace/example_b_to_s_mumu.cpp",
+  "file": "/workspace/example_b_to_s_mumu.cpp",
+  "output": "CMakeFiles/example_b_to_s_mumu.dir/example_b_to_s_mumu.cpp.o"
+},
+{
+  "directory": "/workspace",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -I/workspace/BusinessLogic -std=gnu++20 -o CMakeFiles/simple_wilson_test.dir/simple_wilson_test.cpp.o -c /workspace/simple_wilson_test.cpp",
+  "file": "/workspace/simple_wilson_test.cpp",
+  "output": "CMakeFiles/simple_wilson_test.dir/simple_wilson_test.cpp.o"
+},
+{
+  "directory": "/workspace/CommonLib",
+  "command": "/usr/bin/c++  -I/workspace/Common -std=gnu++20 -o CMakeFiles/CommonLib.dir/Logger.cpp.o -c /workspace/Common/Logger.cpp",
+  "file": "/workspace/Common/Logger.cpp",
+  "output": "CommonLib/CMakeFiles/CommonLib.dir/Logger.cpp.o"
+},
+{
+  "directory": "/workspace/CommonLib",
+  "command": "/usr/bin/c++  -I/workspace/Common -std=gnu++20 -o CMakeFiles/CommonLib.dir/Observer.cpp.o -c /workspace/Common/Observer.cpp",
+  "file": "/workspace/Common/Observer.cpp",
+  "output": "CommonLib/CMakeFiles/CommonLib.dir/Observer.cpp.o"
+},
+{
+  "directory": "/workspace/ConfiguredModule",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/ConfiguredModule.dir/dummy.cpp.o -c /workspace/Configured/dummy.cpp",
+  "file": "/workspace/Configured/dummy.cpp",
+  "output": "ConfiguredModule/CMakeFiles/ConfiguredModule.dir/dummy.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/bessel_function.cpp.o -c /workspace/Math/bessel_function.cpp",
+  "file": "/workspace/Math/bessel_function.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/bessel_function.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/exponential_integral.cpp.o -c /workspace/Math/exponential_integral.cpp",
+  "file": "/workspace/Math/exponential_integral.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/exponential_integral.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/others_functions.cpp.o -c /workspace/Math/others_functions.cpp",
+  "file": "/workspace/Math/others_functions.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/others_functions.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/polylog.cpp.o -c /workspace/Math/polylog.cpp",
+  "file": "/workspace/Math/polylog.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/polylog.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/wilson_math.cpp.o -c /workspace/Math/wilson_math.cpp",
+  "file": "/workspace/Math/wilson_math.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/wilson_math.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/MathBSM/wilson_susy.cpp.o -c /workspace/Math/MathBSM/wilson_susy.cpp",
+  "file": "/workspace/Math/MathBSM/wilson_susy.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/MathBSM/wilson_susy.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/MathBSM/wilson_THDM.cpp.o -c /workspace/Math/MathBSM/wilson_THDM.cpp",
+  "file": "/workspace/Math/MathBSM/wilson_THDM.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/MathBSM/wilson_THDM.cpp.o"
+},
+{
+  "directory": "/workspace/MathLib",
+  "command": "/usr/bin/c++  -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/MathLib.dir/obs_math.cpp.o -c /workspace/Math/obs_math.cpp",
+  "file": "/workspace/Math/obs_math.cpp",
+  "output": "MathLib/CMakeFiles/MathLib.dir/obs_math.cpp.o"
+},
+{
+  "directory": "/workspace/DataBaseLib",
+  "command": "/usr/bin/c++  -I/workspace/DataBase -I/workspace/Common -std=gnu++20 -o CMakeFiles/DataBaseLib.dir/lha_blocks.cpp.o -c /workspace/DataBase/lha_blocks.cpp",
+  "file": "/workspace/DataBase/lha_blocks.cpp",
+  "output": "DataBaseLib/CMakeFiles/DataBaseLib.dir/lha_blocks.cpp.o"
+},
+{
+  "directory": "/workspace/DataBaseLib",
+  "command": "/usr/bin/c++  -I/workspace/DataBase -I/workspace/Common -std=gnu++20 -o CMakeFiles/DataBaseLib.dir/lha_elements.cpp.o -c /workspace/DataBase/lha_elements.cpp",
+  "file": "/workspace/DataBase/lha_elements.cpp",
+  "output": "DataBaseLib/CMakeFiles/DataBaseLib.dir/lha_elements.cpp.o"
+},
+{
+  "directory": "/workspace/DataBaseLib",
+  "command": "/usr/bin/c++  -I/workspace/DataBase -I/workspace/Common -std=gnu++20 -o CMakeFiles/DataBaseLib.dir/lha_reader.cpp.o -c /workspace/DataBase/lha_reader.cpp",
+  "file": "/workspace/DataBase/lha_reader.cpp",
+  "output": "DataBaseLib/CMakeFiles/DataBaseLib.dir/lha_reader.cpp.o"
+},
+{
+  "directory": "/workspace/ExternalIntegrationLib",
+  "command": "/usr/bin/c++  -I/workspace/ExternalIntegration -I/workspace/Common -I/workspace/configured_files/include -std=gnu++20 -o CMakeFiles/ExternalIntegrationLib.dir/Interface.cpp.o -c /workspace/ExternalIntegration/Interface.cpp",
+  "file": "/workspace/ExternalIntegration/Interface.cpp",
+  "output": "ExternalIntegrationLib/CMakeFiles/ExternalIntegrationLib.dir/Interface.cpp.o"
+},
+{
+  "directory": "/workspace/ExternalIntegrationLib",
+  "command": "/usr/bin/c++  -I/workspace/ExternalIntegration -I/workspace/Common -I/workspace/configured_files/include -std=gnu++20 -o CMakeFiles/ExternalIntegrationLib.dir/2HDMC.cpp.o -c /workspace/ExternalIntegration/2HDMC.cpp",
+  "file": "/workspace/ExternalIntegration/2HDMC.cpp",
+  "output": "ExternalIntegrationLib/CMakeFiles/ExternalIntegrationLib.dir/2HDMC.cpp.o"
+},
+{
+  "directory": "/workspace/ExternalIntegrationLib",
+  "command": "/usr/bin/c++  -I/workspace/ExternalIntegration -I/workspace/Common -I/workspace/configured_files/include -std=gnu++20 -o CMakeFiles/ExternalIntegrationLib.dir/SoftSusy.cpp.o -c /workspace/ExternalIntegration/SoftSusy.cpp",
+  "file": "/workspace/ExternalIntegration/SoftSusy.cpp",
+  "output": "ExternalIntegrationLib/CMakeFiles/ExternalIntegrationLib.dir/SoftSusy.cpp.o"
+},
+{
+  "directory": "/workspace/CoreLib",
+  "command": "/usr/bin/c++  -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/CoreLib.dir/MemoryManager.cpp.o -c /workspace/Core/MemoryManager.cpp",
+  "file": "/workspace/Core/MemoryManager.cpp",
+  "output": "CoreLib/CMakeFiles/CoreLib.dir/MemoryManager.cpp.o"
+},
+{
+  "directory": "/workspace/CoreLib",
+  "command": "/usr/bin/c++  -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/CoreLib.dir/Parameters.cpp.o -c /workspace/Core/Parameters.cpp",
+  "file": "/workspace/Core/Parameters.cpp",
+  "output": "CoreLib/CMakeFiles/CoreLib.dir/Parameters.cpp.o"
+},
+{
+  "directory": "/workspace/CoreLib",
+  "command": "/usr/bin/c++  -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/CoreLib.dir/QCDParameters.cpp.o -c /workspace/Core/QCDParameters.cpp",
+  "file": "/workspace/Core/QCDParameters.cpp",
+  "output": "CoreLib/CMakeFiles/CoreLib.dir/QCDParameters.cpp.o"
+},
+{
+  "directory": "/workspace/PhysicalModelLib",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/PhysicalModelLib.dir/Wilson_parameters.cpp.o -c /workspace/PhysicalModel/Wilson_parameters.cpp",
+  "file": "/workspace/PhysicalModel/Wilson_parameters.cpp",
+  "output": "PhysicalModelLib/CMakeFiles/PhysicalModelLib.dir/Wilson_parameters.cpp.o"
+},
+{
+  "directory": "/workspace/PhysicalModelLib",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/PhysicalModelLib.dir/Wilson.cpp.o -c /workspace/PhysicalModel/Wilson.cpp",
+  "file": "/workspace/PhysicalModel/Wilson.cpp",
+  "output": "PhysicalModelLib/CMakeFiles/PhysicalModelLib.dir/Wilson.cpp.o"
+},
+{
+  "directory": "/workspace/PhysicalModelLib",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/PhysicalModelLib.dir/BSM/epsilon_calculator.cpp.o -c /workspace/PhysicalModel/BSM/epsilon_calculator.cpp",
+  "file": "/workspace/PhysicalModel/BSM/epsilon_calculator.cpp",
+  "output": "PhysicalModelLib/CMakeFiles/PhysicalModelLib.dir/BSM/epsilon_calculator.cpp.o"
+},
+{
+  "directory": "/workspace/PhysicalModelLib",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/PhysicalModelLib.dir/BSM/susy_parameters.cpp.o -c /workspace/PhysicalModel/BSM/susy_parameters.cpp",
+  "file": "/workspace/PhysicalModel/BSM/susy_parameters.cpp",
+  "output": "PhysicalModelLib/CMakeFiles/PhysicalModelLib.dir/BSM/susy_parameters.cpp.o"
+},
+{
+  "directory": "/workspace/PhysicalModelLib",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/PhysicalModelLib.dir/BSM/Wilson_susy.cpp.o -c /workspace/PhysicalModel/BSM/Wilson_susy.cpp",
+  "file": "/workspace/PhysicalModel/BSM/Wilson_susy.cpp",
+  "output": "PhysicalModelLib/CMakeFiles/PhysicalModelLib.dir/BSM/Wilson_susy.cpp.o"
+},
+{
+  "directory": "/workspace/PhysicalModelLib",
+  "command": "/usr/bin/c++  -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/PhysicalModelLib.dir/BSM/Wilson_THDM.cpp.o -c /workspace/PhysicalModel/BSM/Wilson_THDM.cpp",
+  "file": "/workspace/PhysicalModel/BSM/Wilson_THDM.cpp",
+  "output": "PhysicalModelLib/CMakeFiles/PhysicalModelLib.dir/BSM/Wilson_THDM.cpp.o"
+},
+{
+  "directory": "/workspace/BusinessLogicLib",
+  "command": "/usr/bin/c++  -I/workspace/BusinessLogic -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/BusinessLogicLib.dir/chi2.cpp.o -c /workspace/BusinessLogic/chi2.cpp",
+  "file": "/workspace/BusinessLogic/chi2.cpp",
+  "output": "BusinessLogicLib/CMakeFiles/BusinessLogicLib.dir/chi2.cpp.o"
+},
+{
+  "directory": "/workspace/BusinessLogicLib",
+  "command": "/usr/bin/c++  -I/workspace/BusinessLogic -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/BusinessLogicLib.dir/Observable.cpp.o -c /workspace/BusinessLogic/Observable.cpp",
+  "file": "/workspace/BusinessLogic/Observable.cpp",
+  "output": "BusinessLogicLib/CMakeFiles/BusinessLogicLib.dir/Observable.cpp.o"
+},
+{
+  "directory": "/workspace/BusinessLogicLib",
+  "command": "/usr/bin/c++  -I/workspace/BusinessLogic -I/workspace/PhysicalModel -I/workspace/PhysicalModel/BSM -I/workspace/Core -I/workspace/Common -I/workspace/DataBase -I/workspace/configured_files/include -I/workspace/ExternalIntegration -I/workspace/Math -I/workspace/Math/MathBSM -std=gnu++20 -o CMakeFiles/BusinessLogicLib.dir/ObsEvaluator.cpp.o -c /workspace/BusinessLogic/ObsEvaluator.cpp",
+  "file": "/workspace/BusinessLogic/ObsEvaluator.cpp",
+  "output": "BusinessLogicLib/CMakeFiles/BusinessLogicLib.dir/ObsEvaluator.cpp.o"
+},
+{
+  "directory": "/workspace/UserInterfaceLib",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/UserInterfaceLib.dir/main.cpp.o -c /workspace/UserInterface/main.cpp",
+  "file": "/workspace/UserInterface/main.cpp",
+  "output": "UserInterfaceLib/CMakeFiles/UserInterfaceLib.dir/main.cpp.o"
+}
+]

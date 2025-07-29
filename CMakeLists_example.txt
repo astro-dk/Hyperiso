@@ -1,0 +1,48 @@
+cmake_minimum_required(VERSION 3.10)
+project(b_to_s_mumu_wilson_example)
+
+# Set C++ standard
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Find required packages
+find_package(Threads REQUIRED)
+
+# Set compiler flags
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -O2")
+
+# Include directories
+include_directories(
+    ${CMAKE_SOURCE_DIR}/PhysicalModel
+    ${CMAKE_SOURCE_DIR}/Core
+    ${CMAKE_SOURCE_DIR}/Math
+    ${CMAKE_SOURCE_DIR}/Common
+    ${CMAKE_SOURCE_DIR}/DataBase
+    ${CMAKE_SOURCE_DIR}/Tools
+    ${CMAKE_SOURCE_DIR}/ExternalIntegration
+)
+
+# Add the example executable
+add_executable(example_b_to_s_mumu example_b_to_s_mumu.cpp)
+
+# Link against the HyperIso library
+# Note: You may need to adjust the library name based on your build
+target_link_libraries(example_b_to_s_mumu 
+    hyperiso
+    ${CMAKE_THREAD_LIBS_INIT}
+)
+
+# Alternative: If you want to build the example within the main project
+# Uncomment the following lines and comment out the above add_executable line
+
+# add_executable(example_b_to_s_mumu example_b_to_s_mumu.cpp)
+# target_link_libraries(example_b_to_s_mumu 
+#     ${CMAKE_THREAD_LIBS_INIT}
+# )
+
+# Instructions for users:
+# 1. Copy this CMakeLists.txt to your project directory
+# 2. Copy example_b_to_s_mumu.cpp to the same directory
+# 3. Run: cmake .
+# 4. Run: make
+# 5. Run: ./example_b_to_s_mumu
